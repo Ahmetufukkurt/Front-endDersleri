@@ -39,3 +39,5 @@
 //*      özellikler;
 //*      özellikler;
 //*         }
+
+//* deneme1
