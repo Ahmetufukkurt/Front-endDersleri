@@ -1,0 +1,54 @@
+/* h1 {
+  text-align: center;
+  color: blueviolet;
+}
+p {
+  font-size: 24px;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  background-color: aqua;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+.container-left {
+  display: flex;
+}
+.container-right {
+  display: flex;
+}
+p {
+  margin: 10px;
+  font-size: 18px;
+}
+p:hover {
+  color: red;
+  cursor: pointer;
+} */
+
+.box1 {
+  height: 8000px;
+  width: 1000px;
+  background-color: yellow;
+  border: 2px solid;
+}
+.box2 {
+  height: 400px;
+  width: 500px;
+  background-color: aqua;
+  border: 2px solid;
+  margin: 50px;
+  display: flex;
+  flex-wrap: wrap-reverse;
+}
+
+.box3 {
+  width: 150px;
+  height: 75px;
+  background-color: pink;
+  border: 2px solid;
+}
